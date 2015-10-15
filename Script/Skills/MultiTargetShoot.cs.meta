@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 0e2d0d505e4a14546a4632c92163fde3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - status_manager: {instanceID: 0}
+  - bullet: {instanceID: 0}
+  - explostion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

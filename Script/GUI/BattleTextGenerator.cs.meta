@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 183ae14fe102032429918718ffab14a5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - status_manager: {instanceID: 0}
+  - heal: {fileID: 10200000, guid: 4e877d2c942598341a5bf07e00808ea7, type: 2}
+  - physical_damage: {fileID: 10200000, guid: 05742628348b67746b1ba4d55ca2dce8, type: 2}
+  - magic_damge: {fileID: 10200000, guid: 05742628348b67746b1ba4d55ca2dce8, type: 2}
+  - pure_damage: {fileID: 10200000, guid: 05742628348b67746b1ba4d55ca2dce8, type: 2}
+  - status: {fileID: 10200000, guid: 05742628348b67746b1ba4d55ca2dce8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

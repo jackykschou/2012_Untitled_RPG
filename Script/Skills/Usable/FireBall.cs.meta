@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 502d0aac26df5c141ad3c09c9e649cbd
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - icon: {fileID: 2800000, guid: 70c3e34471e0907478a13c078349202c, type: 3}
+  - status_manager: {instanceID: 0}
+  - bullet: {fileID: 100000, guid: 303951c6b66094d40a4df0a55f31d012, type: 2}
+  - explosion: {fileID: 100000, guid: f4fb470452b902943890f0006da3c0a9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
